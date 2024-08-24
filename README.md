@@ -28,22 +28,6 @@ My vision extends beyond mere academic excellence; I aim to leverage my skills t
 </p>
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [@YourTwitterHandle]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/gian-alcantara-7293282a9/
+- Email: raphaelalcantara51@gmail.com
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-## 🎯 Goals for 2023
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
-
-⭐️ From
