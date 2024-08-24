@@ -1,7 +1,10 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Gian Raphael Alcantara 👋
 
 ## About Me
-I'm a [Your Profession/Role] based in [Your Location]. I'm passionate about [Your Interests/Areas of Expertise] and love to [Your Hobbies or Activities].
+I'm a dedicated Software Engineering Student at First City Providential College. My mission revolves around mastering programming languages, algorithms, and software development methodologies. Fueled by a relentless passion for technology and innovation, I aspire to become a proficient software engineer capable of tackling complex problems and contributing to groundbreaking projects.
+
+## 🚀 Vision
+My vision extends beyond mere academic excellence; I aim to leverage my skills to create impactful solutions that address real-world challenges, whether it's enhancing user experiences, optimizing system performance, or revolutionizing industries through cutting-edge software solutions.
 
 ## 🔭 Current Projects
 - [Project 1]: Brief description
