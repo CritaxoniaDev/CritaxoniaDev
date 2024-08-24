@@ -2,7 +2,7 @@
   <img src="https://your-image-url-here.com/header-image.png" alt="Header" width="100%">
 </div>
 <div align="center">
-# Hello, I'm Gian Raphael Alcantara 👋
+  <h1>👋 Hello, I'm Gian Raphael Alcantara 👋</h1>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Passionate+Innovator;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
