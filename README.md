@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated Software Engineering Student at First City Providential College, on a mission to master programming languages, algorithms, and software development methodologies. My passion for technology and innovation fuels my aspiration to become a proficient software engineer, capable of tackling complex problems and contributing to groundbreaking projects.
+I'm a dedicated Software Engineering Student at Lithan EduClaas Singapore, and a BSIT - SE Student at First City Providential College, on a mission to master programming languages, algorithms, and software development methodologies. My passion for technology and innovation fuels my aspiration to become a proficient software engineer, capable of tackling complex problems and contributing to groundbreaking projects.
 
 <details>
 <summary>🌟 My Vision</summary>
