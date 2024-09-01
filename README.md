@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://your-image-url-here.com/header-image.png" alt="Header" width="100%">
-</div>
+
 <div align="center">
   <h1>👋 Hello, I'm Gian Raphael Alcantara 👋</h1>
 </div>
@@ -41,6 +39,3 @@ My vision extends beyond mere academic excellence; I aim to leverage my skills t
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://your-image-url-here.com/footer-image.png" alt="Footer" width="100%">
-</div>
