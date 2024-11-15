@@ -23,3 +23,11 @@ My vision extends beyond mere academic excellence; I aim to leverage my skills t
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,php,laravel,bootstrap,mysql" alt="Skills" />
   </p>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CritaxoniaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CritaxoniaDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CritaxoniaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CritaxoniaDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
